@@ -1,0 +1,15 @@
+https://gumroad.com/l/flickity-dev * 3 for each of us
+
+
+
+<div style="transform: translateY(-675px)">
+                  <img class="SVGimage" style="transform: translateX(-5vw) " src="../assets/images/svg/security.svg" alt="Ah shit lost it again">
+                  <img class="SVGimage" style="transform: translateX(-10vw) " src="../assets/images/svg/breakfixServices.svg" alt="Ah shit lost it again">
+                  <img class="SVGimage" style="transform: translateX(-15vw) " src="../assets/images/svg/serverManagement.svg" alt="Ah shit lost it again">
+                  <img class="SVGimage" style="transform: translateX(-20vw) " src="../assets/images/svg/cloudComputing.svg" alt="Ah shit lost it again">
+                </div>
+                <div style="transform: translateY( -725px)">
+                  <img class="SVGimage" style="transform: translateX(-15.5vw)" src="../assets/images/svg/networking.svg" alt="Ah shit lost it again">
+                  <img class="SVGimage" style="transform: translateX(-20.5vw)" src="../assets/images/svg/disasterRecovery.svg" alt="Ah shit lost it again">
+                  <img class="SVGimage" style="transform: translateX(-25.5vw)" src="../assets/images/svg/computerSystems.svg" alt="Ah shit lost it again">
+                </div>
